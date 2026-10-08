@@ -28,15 +28,18 @@ The project also contains a simple project structure with client, server, test, 
 
 📦 flipkart-accessibility-audit
 │
+
 ├── 📂 client
 │   └── 📄 README.md
 │
+
 ├── 📂 server
 │   └── 📄 README.md
 │
 ├── 📂 test
 │   └── 📄 README.md
 │
+
 ├── 📂 docs
 │   ├── 📄 accessibility-issues.md
 │   ├── 📄 architecture.md
@@ -47,6 +50,7 @@ The project also contains a simple project structure with client, server, test, 
 │   ├── 🖼️ flipkart-shopping.png
 │   └── 📂 evidence
 │
+
 ├── 📄 README.md
 ├── 📄 README.pdf
 ├── 📄 architecture.pdf
